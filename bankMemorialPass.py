@@ -1,3 +1,7 @@
+'''
+Bank memorial password smol generator.
+'''
+
 name = "binderiya0820"
 
 num1 = int(input("First number: "))
